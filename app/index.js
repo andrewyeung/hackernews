@@ -11,8 +11,8 @@ class App extends React.Component {
     <Router>
       <div>
         <div className="wrapper">
-          <Route exact path='/' component={Top} />
-          <Route exact path='/new' component={New} />
+          <Route exact path='/' component={() => {<Top timestamp={new Date().toString()} />}} />
+          <Route exact path='/new' component={() => {<New timestamp={new Date().toString()} />}} />
         </div>
       </div>
     </Router>
