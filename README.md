@@ -39,7 +39,7 @@
 ## About The Project
 <a href="https://elated-ptolemy-6817eb.netlify.app/">View Demo on Netlify!</a>
 
-* This is a clone of hacker news using React.js. 
+* This is a clone of hacker news using React.js. Data from Hacker News API is fetched with Fetch API in JS.
 * The homepage would be the top stories currently from Hacker News. 
 * Most titles from the stories are links to another website. 
 * Users' names could be clicked on and redirected to the user info with his or her posts shown. 
@@ -52,7 +52,7 @@
 * React Router
 * HTML5
 * CSS3
-* Javascript ES6
+* Javascript ES6 (AJAX with Fetch API)
 * Hacker News API
 
 
