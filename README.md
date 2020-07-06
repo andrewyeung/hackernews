@@ -11,7 +11,7 @@
     An awesome clone of Hacker News with React.js and Hacker News API
     <br />
     <br />
-    <a href="https://elated-ptolemy-6817eb.netlify.app/">View Demo</a>
+    <h3><a href="https://elated-ptolemy-6817eb.netlify.app/">View Demo on Netlify!</a></h3>
   </p>
 </p>
 
