@@ -63,6 +63,7 @@
 
 * The **screenshots** folder contains the screenshots for this Readme file.
 * The **_redirects** file is for react router to run properly upon page refresh.
+* <h3 align="center"><a href="https://elated-ptolemy-6817eb.netlify.app/">View Demo on Netlify!</a></h3>
 
 
 <!-- CONTACT -->
